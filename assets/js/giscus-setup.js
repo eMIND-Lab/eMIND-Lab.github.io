@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "eMIND-Lab/eMIND-lab.github.io",
+    "data-repo": "eMIND-Lab/eMIND-Lab.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
