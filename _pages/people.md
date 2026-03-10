@@ -29,7 +29,7 @@ nav_order: 2
     <p><strong>Education</strong></p>
     <ul>
       <li>Ph.D. in Music Education with Music Therapy Emphasis, University of Miami</li>
-      <li>M.ED. in Education, Ewha Womans University</li>
+      <li>M.ED. in Music Therapy Education, Ewha Womans University</li>
       <li>B.A. in Music Performance, Seoul National University</li>
     </ul>
     <p>
