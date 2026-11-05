@@ -91,7 +91,7 @@ nav_order: 2
     </ul>
     <p><strong>Education</strong></p>
     <ul>
-      <li>B.A. in Applied Music (Practical Music), University</li>
+      <li>B.A. in Applied Music (Practical Music), Chodang University</li>
     </ul>
   </div>
 </div>
@@ -128,6 +128,52 @@ nav_order: 2
     <p><strong>Education</strong></p>
     <ul>
       <li>B.A. in Music Performance, Ewha Womans University</li>
+    </ul>
+  </div>
+</div>
+
+<!-- Sohee Jung -->
+<div class="row mt-3">
+  <div class="col-sm-3 col-md-3">
+    <img src="{{ '/assets/img/soheejung.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Sohee Jung">
+  </div>
+  <div class="col-sm-9 col-md-9">
+    <h4>Sohee Jung (정소희)</h4>
+    <p><strong>M.A. Student</strong><br>
+    Department of Music Therapy,<br>
+    Ewha Womans University</p>
+    <p><strong>Email:</strong> <a href="mailto:thgml9669@ewha.ac.kr">thgml9669@ewha.ac.kr</a></p>
+    <p><strong>Research Interests</strong></p>
+    <ul>
+      <li>Neurologic Rehabilitation</li>
+      <li>Development of Music-Based Interventions</li>
+      <li>Music and Neuroplasticity</li>
+    </ul>
+    <p><strong>Education</strong></p>
+    <ul>
+      <li>B.A. in Music Composition, Keimyung University</li>
+    </ul>
+  </div>
+</div>
+
+<!-- Kwon Soyeon -->
+<div class="row mt-3">
+  <div class="col-sm-3 col-md-3">
+    <img src="{{ '/assets/img/kwonsoyeon.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Kwon Soyeon">
+  </div>
+  <div class="col-sm-9 col-md-9">
+    <h4>Kwon Soyeon (권소연)</h4>
+    <p><strong>M.A. Student</strong><br>
+    Department of Music Therapy,<br>
+    Ewha Womans University</p>
+    <p><strong>Email:</strong> <a href="mailto:so2yeon@ewha.ac.kr">so2yeon@ewha.ac.kr</a></p>
+    <p><strong>Research Interests</strong></p>
+    <ul>
+      <li>Neurologic Music Therapy: Motor Rehabilitation</li>
+    </ul>
+    <p><strong>Education</strong></p>
+    <ul>
+      <li>B.M. in Orchestral Performance, Ewha Womans University</li>
     </ul>
   </div>
 </div>
